@@ -1,3 +1,11 @@
+
+**Tabla de contenido*
+1. [Limpieza de datos]
+2. [Análisis de datos]
+3. [Visualización de datos]
+4. [Ciencia de Datos]
+5. [WebScrapping]
+
 Proyecto de Portafolio de Inversión en Acciones
 Descripción
 Este proyecto de portafolio de inversión en acciones se centra en el análisis y la visualización de datos relacionados con el rendimiento histórico de acciones de empresas públicas. 
@@ -14,20 +22,20 @@ Visualización Interactiva: Crear gráficos interactivos que permitan a los usua
 Automatización y Actualización: Diseñar un sistema que actualice automáticamente los datos y métricas de las acciones seleccionadas para mantener el portafolio actualizado.
 De lo cual se realizaron 5 proyectos en RStudio para analizar y determinar:
 
-1.	Limpieza
+## 1.	Limpieza de Datos
 ¿Cuáles son algunos métodos efectivos para manejar valores faltantes en el conjunto de datos que se ha utilizado?
 
-3.	Análisis
+## 2.	Análisis de datos
 Utilizando R Describiremos como se puede explorar la distribución de una variable numérica en un conjunto de datos. 
 
-4.	Visualización de Datos
+## 3.	Visualización de Datos
 ¿Cuál es el comportamiento de las acciones en los últimos 6 meses?
 Conocer los picos más altos para las acciones de Amazon y y Tesla
 
-6.	Ciencia de Datos.
+## 4.	Ciencia de Datos.
 Se desea visualizar la tendencia general del precio de las acciones de Meta durante los últimos 6 meses
 
-7.	Webscrapping
+## 5.	Webscrapping
 ¿Cómo se puede utilizar web scraping para extraer, limpiar y analizar información relevante de páginas web sobre las empresas elegidas (Tesla, Amazon, Paramount, y Meta), y qué insights
  clave se pueden obtener para evaluar el rendimiento y las características de estas empresas?
 
