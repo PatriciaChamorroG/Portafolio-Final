@@ -31,5 +31,4 @@ Se desea visualizar la tendencia general del precio de las acciones de Meta dura
 ¿Cómo se puede utilizar web scraping para extraer, limpiar y analizar información relevante de páginas web sobre las empresas elegidas (Tesla, Amazon, Paramount, y Meta), y qué insights
  clave se pueden obtener para evaluar el rendimiento y las características de estas empresas?
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
