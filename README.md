@@ -1,7 +1,7 @@
 
 **Tabla de contenido*
-1. [Limpieza de datos]
-2. [Análisis de datos](https://github.com/PatriciaChamorroG/Portafolio-Final/blob/main/README.md)
+1. [Limpieza de datos](https://github.com/PatriciaChamorroG/Portafolio-Final/blob/main/README.md#1limpieza-de-datos)
+2. [Análisis de datos]
 3. [Visualización de datos]
 4. [Ciencia de Datos]
 5. [WebScrapping]
